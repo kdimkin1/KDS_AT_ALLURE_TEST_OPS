@@ -8,7 +8,7 @@
 
 
 ##  Allure Test Ops:
-###https://allure.autotests.cloud/project/1358
+##### https://allure.autotests.cloud/project/1358
 >```С11-KDS-AT_allure-examples```
 ###  Dashboards:
 ![image](images/AOT_dashboards1.png)  ![image](images/AOT_dashboards2.png)
@@ -19,8 +19,8 @@
 
 
 ##  Jenkins:
-#####https://jenkins.autotests.cloud/job/C11-KDS-ATO-HW23/
-#####https://jenkins.autotests.cloud/job/C11-KDS-ATO-HW23_PIPLINE/
+##### https://jenkins.autotests.cloud/job/C11-KDS-ATO-HW23/
+##### https://jenkins.autotests.cloud/job/C11-KDS-ATO-HW23_PIPLINE/
 >pipline example:
 > ```
 >  pipeline {
