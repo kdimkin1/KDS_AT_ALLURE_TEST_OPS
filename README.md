@@ -21,7 +21,7 @@
 ##  Jenkins:
 ##### https://jenkins.autotests.cloud/job/C11-KDS-ATO-HW23/
 ##### https://jenkins.autotests.cloud/job/C11-KDS-ATO-HW23_PIPLINE/
->pipline example:
+>pipeline example:
 > ```
 >  pipeline {
 >    agent any
